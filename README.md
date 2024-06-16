@@ -1,1 +1,2 @@
-# wather-app
+# weather-app
+work in progress
