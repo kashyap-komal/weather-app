@@ -123,7 +123,7 @@ export default function Navbar({location}: Props) {
           </div>
         
       </nav>
-      <section className='flex max-w-7xl px-3 md:hidden'>
+      {/* <section className='flex max-w-7xl px-3 md:hidden'>
         <div className='relative'>
                   <SearchBox
                   value={city}
@@ -140,7 +140,7 @@ export default function Navbar({location}: Props) {
 
                   />
         </div>
-      </section>
+      </section> */}
     </>
   )
 }
